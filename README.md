@@ -9,7 +9,7 @@ This model has 80 different classes for the moment,examples include but are not 
 
 
 
-Model was built with a custom dataset and partially custom parameters,work still in progress..
+Model was built with a custom dataset and partially custom parameters like spp,work still in progress..
 <br/>
 <br/>
 <br/>
